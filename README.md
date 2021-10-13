@@ -7,6 +7,7 @@
     </a>
 </div>
 
+##
 
 <div style="display: inline_block">
     <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,8 +18,6 @@
     <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
-
-##
 
 <div align="center"> 
     <a href="https://instagram.com/cassiocg98" target="_blank">
