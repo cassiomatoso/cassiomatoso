@@ -1,6 +1,6 @@
 <div align="center" style="display: inline_block">
     <a href="https://github.com/cassiomatoso">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cassiomatoso&show_icons=true&theme=dark&count_private=true"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cassiomatoso&count_private=true&show_icons=true&theme=dark"/>
         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiomatoso&layout=compact&hide=css&langs_count=4&theme=dark"/>
     </a>
 </div>
