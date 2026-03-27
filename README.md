@@ -28,9 +28,6 @@ Parâmetros incluem commits totais e itens extras (reviews, PRs, etc) [3-5] -->
 <a href="https://instagram.com/cassiogmatoso" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Perfil do Instagram de Cassio Matoso">
 </a>
-<a href="https://discord.gg/eb2325tfrK" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Servidor do Discord">
-</a>
 <a href="mailto:cassiomatoso.contato@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Cassio Matoso">
 </a>
