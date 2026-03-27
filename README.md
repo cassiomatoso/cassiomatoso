@@ -3,7 +3,7 @@
 
   <h1>Full Stack Web Developer</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&center=true&vCenter=true&width=980&lines=Legacy+Systems+Specialist+%28PHP+and+JavaScript%2FTypeScript%29;PHP+%7C+Laravel+%7C+CodeIgniter+%7C+Node.js+%7C+NestJS;React+%7C+Next.js+%7C+TypeScript+%7C+Cloud+%7C+Serverless+%28AWS+Lambda%29;Building%2C+modernizing+and+scaling+web+platforms" alt="Resumo de especialidades de Cassio Matoso em sistemas legados, full stack, cloud e serverless" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&center=true&vCenter=true&width=980&lines=Legacy+Systems+Specialist+%28PHP+and+JavaScript%2FTypeScript%29;PHP+%7C+Laravel+%7C+CodeIgniter+%7C+Node.js+%7C+NestJS;React+%7C+Next.js+%7C+TypeScript+%7C+Cloud+%7C+Serverless;Building%2C+modernizing+and+scaling+web+platforms" alt="Resumo de especialidades de Cassio Matoso em sistemas legados, full stack, cloud e serverless" />
 
   <p>
     <a href="https://github.com/cassiomatoso"><img src="https://img.shields.io/badge/Currently%20Employed-Open%20to%20Proposals-00C853?style=for-the-badge" alt="Cassio Matoso atualmente empregado e aberto para avaliar propostas" /></a>
@@ -14,14 +14,14 @@
 
 ## Sobre Mim | About Me
 
-Sou **Full Stack Developer** no Brasil com mais de **8 anos de experiencia** em desenvolvimento web, com forte atuacao em **sistemas legados em PHP e JavaScript/TypeScript**. Trabalho na Sistema Gerencial Txai desenvolvendo, mantendo e modernizando plataformas de alta criticidade, incluindo migracoes arquiteturais de stacks legadas para arquiteturas modernas com NestJS, React e TypeScript.
+Sou **Full Stack Developer** no Brasil com mais de **8 anos de experiencia** em desenvolvimento web, com forte atuação em **sistemas legados em PHP e JavaScript/TypeScript**. Trabalho no Grupo Txai desenvolvendo, mantendo e modernizando plataformas de alta criticidade, incluindo migrações arquiteturais de stacks legadas para arquiteturas modernas com NestJS, React e TypeScript.
 
 I am a **Full Stack Developer** based in Brazil with **8+ years of experience** building and evolving web products. I specialize in **legacy systems (PHP and JavaScript/TypeScript)**, from stabilization and critical bug fixing to architecture modernization with cloud-native and serverless approaches.
 
 - Especialidades principais: `PHP`, `Laravel`, `CodeIgniter`, `JavaScript`, `TypeScript`, `Node.js`, `NestJS`
 - Modernizacao de legado: migracao de `PHP/Bootstrap` para `NestJS + React + TypeScript`
-- Cloud e escalabilidade: `AWS Lambda`, `GCP`, `REST APIs`, deploy continuo
-- Diferencial de mercado: experiencia pratica em **manter legado e conduzir migracao segura para stacks modernas**
+- Cloud e escalabilidade: `AWS`, `GCP`, `REST APIs`, deploy continuo
+- Diferencial de mercado: experiencia prática em **manter legado e conduzir migração segura para stacks modernas**
 
 ## Tech Stack
 
