@@ -14,9 +14,9 @@
 
 ## Sobre Mim | About Me
 
-Sou **Senior Full Stack Developer** no Brasil com mais de **8 anos de experiencia** em desenvolvimento web, com forte atuacao em **sistemas legados em PHP e JavaScript/TypeScript**. Trabalho na Sistema Gerencial Txai desenvolvendo, mantendo e modernizando plataformas de alta criticidade, incluindo migracoes arquiteturais de stacks legadas para arquiteturas modernas com NestJS, React e TypeScript.
+Sou **Full Stack Developer** no Brasil com mais de **8 anos de experiencia** em desenvolvimento web, com forte atuacao em **sistemas legados em PHP e JavaScript/TypeScript**. Trabalho na Sistema Gerencial Txai desenvolvendo, mantendo e modernizando plataformas de alta criticidade, incluindo migracoes arquiteturais de stacks legadas para arquiteturas modernas com NestJS, React e TypeScript.
 
-I am a **Senior Full Stack Developer** based in Brazil with **8+ years of experience** building and evolving web products. I specialize in **legacy systems (PHP and JavaScript/TypeScript)**, from stabilization and critical bug fixing to architecture modernization with cloud-native and serverless approaches.
+I am a **Full Stack Developer** based in Brazil with **8+ years of experience** building and evolving web products. I specialize in **legacy systems (PHP and JavaScript/TypeScript)**, from stabilization and critical bug fixing to architecture modernization with cloud-native and serverless approaches.
 
 - Especialidades principais: `PHP`, `Laravel`, `CodeIgniter`, `JavaScript`, `TypeScript`, `Node.js`, `NestJS`
 - Modernizacao de legado: migracao de `PHP/Bootstrap` para `NestJS + React + TypeScript`
