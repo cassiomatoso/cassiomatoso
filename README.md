@@ -40,8 +40,7 @@ I am a **Full Stack Developer** based in Brazil with **8+ years of experience** 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Linguagem frontend TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Biblioteca frontend React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Framework frontend Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Linguagem de marcacao HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Linguagem de estilo CSS3" />
+  <img src="https://img.shields.io/badge/ViNext-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Framework ViNext com Cloudflare" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Framework frontend Bootstrap" />
 </p>
 
