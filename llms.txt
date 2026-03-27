@@ -1,14 +1,16 @@
 # Cassio Matoso - Professional Profile
 
 ## Summary
-Cassio Matoso is a Senior Full Stack Web Developer from Brazil with 8+ years of experience in web development, software maintenance, and architecture modernization.
+Cassio Matoso is a Full Stack Web Developer from Brazil with 8+ years of experience in web development, software maintenance, and architecture modernization.
 
 He specializes in legacy systems using PHP and JavaScript/TypeScript, including critical bug fixing, performance optimization, and migration from monolithic or older stacks to modern architectures.
+
+He is currently employed and open to evaluating new proposals aligned with full stack, legacy modernization, and cloud/serverless challenges.
 
 ## Core Expertise
 - Legacy Systems: PHP, JavaScript, TypeScript, CodeIgniter
 - Backend Engineering: PHP, Laravel, Node.js, NestJS
-- Frontend Engineering: React, Next.js, TypeScript, Bootstrap
+- Frontend Engineering: React, Next.js, ViNext (Cloudflare), TypeScript, Bootstrap
 - Cloud and Serverless: AWS Lambda, Google Cloud Platform, Vercel
 - API Engineering: REST APIs, system integrations
 - Delivery and Operations: Git, GitLab, cPanel, continuous delivery routines
@@ -20,7 +22,8 @@ He specializes in legacy systems using PHP and JavaScript/TypeScript, including 
 - Full stack profile with practical business impact in production systems
 
 ## Professional Context
-- Current role: Full Stack Developer at Sistema Gerencial Txai
+- Current role: Full Stack Developer at Sistema Gerencial Txai | Grupo Txai
+- Availability: Currently employed, open to proposals
 - Region: Brazil
 - LinkedIn: https://www.linkedin.com/in/cassio-matoso/
 - GitHub: https://github.com/cassiomatoso
@@ -31,11 +34,5 @@ He specializes in legacy systems using PHP and JavaScript/TypeScript, including 
 - NestJS REST API with TypeScript
 - Laravel and TypeScript tracks
 
-## Featured Repositories
-- menu-api: https://github.com/cassiomatoso/menu-api
-- BaseCRUDNodeJS: https://github.com/cassiomatoso/BaseCRUDNodeJS
-- desafioGVoalle: https://github.com/cassiomatoso/desafioGVoalle
-- laravel-upload: https://github.com/cassiomatoso/laravel-upload
-
 ## Keywords
-senior full stack developer, legacy systems specialist, php developer, laravel developer, codeigniter, typescript engineer, javascript developer, nestjs, react, nextjs, aws lambda, serverless architecture, cloud computing, rest api, system migration, web development brazil
+senior full stack developer, legacy systems specialist, php developer, laravel developer, codeigniter, typescript engineer, javascript developer, nestjs, react, nextjs, vinext, cloudflare, aws lambda, serverless architecture, cloud computing, rest api, system migration, web development brazil, currently employed open to proposals
