@@ -51,9 +51,7 @@ I am a **Full Stack Developer** based in Brazil with **8+ years of experience** 
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Plataforma de nuvem Google Cloud" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Plataforma de deploy Vercel" />
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="Painel de administracao cPanel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Sistema de versionamento Git" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Plataforma GitLab para colaboracao" />
-  <img src="https://img.shields.io/badge/ActiveCampaign-356AE6?style=for-the-badge&logo=activecampaign&logoColor=white" alt="Ferramenta ActiveCampaign para automacao" />
 </p>
 
 
