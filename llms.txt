@@ -1,0 +1,41 @@
+# Cassio Matoso - Professional Profile
+
+## Summary
+Cassio Matoso is a Senior Full Stack Web Developer from Brazil with 8+ years of experience in web development, software maintenance, and architecture modernization.
+
+He specializes in legacy systems using PHP and JavaScript/TypeScript, including critical bug fixing, performance optimization, and migration from monolithic or older stacks to modern architectures.
+
+## Core Expertise
+- Legacy Systems: PHP, JavaScript, TypeScript, CodeIgniter
+- Backend Engineering: PHP, Laravel, Node.js, NestJS
+- Frontend Engineering: React, Next.js, TypeScript, Bootstrap
+- Cloud and Serverless: AWS Lambda, Google Cloud Platform, Vercel
+- API Engineering: REST APIs, system integrations
+- Delivery and Operations: Git, GitLab, cPanel, continuous delivery routines
+
+## Market Positioning (2026)
+- Senior developer focused on legacy system modernization
+- Strong experience in architecture migration projects
+- Cloud-native and serverless-oriented implementation mindset
+- Full stack profile with practical business impact in production systems
+
+## Professional Context
+- Current role: Full Stack Developer at Sistema Gerencial Txai
+- Region: Brazil
+- LinkedIn: https://www.linkedin.com/in/cassio-matoso/
+- GitHub: https://github.com/cassiomatoso
+
+## Certifications (Selected)
+- Harvard Computer Science Program in Brazil (Fundacao Estudar)
+- Serverless course
+- NestJS REST API with TypeScript
+- Laravel and TypeScript tracks
+
+## Featured Repositories
+- menu-api: https://github.com/cassiomatoso/menu-api
+- BaseCRUDNodeJS: https://github.com/cassiomatoso/BaseCRUDNodeJS
+- desafioGVoalle: https://github.com/cassiomatoso/desafioGVoalle
+- laravel-upload: https://github.com/cassiomatoso/laravel-upload
+
+## Keywords
+senior full stack developer, legacy systems specialist, php developer, laravel developer, codeigniter, typescript engineer, javascript developer, nestjs, react, nextjs, aws lambda, serverless architecture, cloud computing, rest api, system migration, web development brazil
