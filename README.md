@@ -73,10 +73,4 @@ I am a **Full Stack Developer** based in Brazil with **8+ years of experience** 
   <a href="mailto:cassiomatoso.contato@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-cassiomatoso.contato%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email para Cassio Matoso" />
   </a>
-  <a href="https://instagram.com/cassiogmatoso">
-    <img src="https://img.shields.io/badge/Instagram-cassiogmatoso-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Acessar Instagram de Cassio Matoso" />
-  </a>
-  <a href="https://github.com/cassiomatoso">
-    <img src="https://img.shields.io/badge/GitHub-cassiomatoso-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar perfil GitHub de Cassio Matoso" />
-  </a>
 </p>
