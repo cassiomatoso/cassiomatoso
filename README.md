@@ -57,11 +57,13 @@ I am a **Full Stack Developer** based in Brazil with **8+ years of experience** 
 ## GitHub Estatisticas
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=cassiomatoso&theme=dracula" alt="Sequencia de contribuicoes de Cassio Matoso no GitHub" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=cassiomatoso&theme=neon-dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cassiomatoso&theme=dracula" alt="Grafico de atividade de contribuicoes no GitHub por Cassio Matoso" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cassiomatoso&theme=high-contrast" alt="Grafico de atividade de contribuicoes no GitHub por Cassio Matoso" />
 </p>
 
 ## Contato e Redes
