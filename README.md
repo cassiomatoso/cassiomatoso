@@ -62,7 +62,7 @@ I am a **Full Stack Developer** based in Brazil with **8+ years of experience** 
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cassiomatoso&theme=high-contrast&days=20" alt="Grafico de atividade de contribuicoes no GitHub por Cassio Matoso" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cassiomatoso&theme=high-contrast&days=90" alt="Grafico de atividade de contribuicoes no GitHub por Cassio Matoso" />
 </p>
 
 ## Contato e Redes
