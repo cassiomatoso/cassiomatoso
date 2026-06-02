@@ -58,7 +58,7 @@ I am a **Full Stack Developer** based in Brazil with **8+ years of experience** 
 
 <p>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=cassiomatoso&theme=neon-dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cassiomatoso&theme=neon-dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=895" alt="GitHub Streak" />
   </a>
 </p>
 
