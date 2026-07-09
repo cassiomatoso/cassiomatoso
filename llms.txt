@@ -1,41 +1,27 @@
-# Cassio Matoso - Professional Profile
+# Cassio Matoso
 
-## Summary
-Cassio Matoso is a Full Stack Web Developer from Brazil with 8+ years of experience in web development, software maintenance, and architecture modernization.
+> Full Stack Web Developer specialized in legacy systems modernization, based in Santo Antônio das Missões, Rio Grande do Sul, Brazil.
 
-He specializes in legacy systems using PHP and JavaScript/TypeScript, including critical bug fixing, performance optimization, and migration from monolithic or older stacks to modern architectures.
+Cassio Matoso is a Full Stack Web Developer from Brazil with 8+ years of experience in web development, software maintenance, and architecture modernization. He specializes in PHP and JavaScript/TypeScript legacy systems, including critical bug fixing, performance optimization, and migration to modern architectures. Currently employed at Sistema Gerencial Txai | Grupo Txai and open to evaluating new proposals aligned with full stack, legacy modernization, and cloud/serverless challenges.
 
-He is currently employed and open to evaluating new proposals aligned with full stack, legacy modernization, and cloud/serverless challenges.
+Core expertise: PHP, Laravel, CodeIgniter, Node.js, NestJS, React, Next.js, ViNext (Cloudflare), TypeScript, AWS Lambda, Google Cloud Platform, Vercel, REST APIs, Git, GitLab.
 
-## Core Expertise
-- Legacy Systems: PHP, JavaScript, TypeScript, CodeIgniter
-- Backend Engineering: PHP, Laravel, Node.js, NestJS
-- Frontend Engineering: React, Next.js, ViNext (Cloudflare), TypeScript, Bootstrap
-- Cloud and Serverless: AWS Lambda, Google Cloud Platform, Vercel
-- API Engineering: REST APIs, system integrations
-- Delivery and Operations: Git, GitLab, cPanel, continuous delivery routines
+## Site
 
-## Market Positioning (2026)
-- Senior developer focused on legacy system modernization
-- Strong experience in architecture migration projects
-- Cloud-native and serverless-oriented implementation mindset
-- Full stack profile with practical business impact in production systems
-
-## Professional Context
-- Current role: Full Stack Developer at Sistema Gerencial Txai | Grupo Txai
-- Availability: Currently employed, open to proposals
-- Region: Brazil
+- [Homepage](https://cassiomatoso.tech/): Professional profile, portfolio, and contact information
 
 ## Profiles
-- LinkedIn: https://www.linkedin.com/in/cassio-matoso/
-- GitHub: https://github.com/cassiomatoso
-- GitLab: https://gitlab.com/cassio.matoso
 
-## Certifications (Selected)
-- Harvard Computer Science Program in Brazil (Fundacao Estudar)
-- Serverless course
-- NestJS REST API with TypeScript
-- Laravel and TypeScript tracks
+- [LinkedIn](https://www.linkedin.com/in/cassio-matoso/): Professional network profile
+- [GitHub](https://github.com/cassiomatoso): Open source repositories
+- [GitLab](https://gitlab.com/cassio.matoso): Work repositories
 
-## Keywords
-senior full stack developer, legacy systems specialist, php developer, laravel developer, codeigniter, typescript engineer, javascript developer, nestjs, react, nextjs, vinext, cloudflare, aws lambda, serverless architecture, cloud computing, rest api, system migration, web development brazil, currently employed open to proposals
+## Contact
+
+- [WhatsApp](https://wa.me/55999159865): +55 99 99159-8658
+- [Email](mailto:cassiomatoso.contato@gmail.com): cassiomatoso.contato@gmail.com
+
+## Optional
+
+- Certifications: Harvard Computer Science Program in Brazil (Fundacao Estudar), Serverless, NestJS REST API with TypeScript, Laravel and TypeScript tracks
+- Keywords: senior full stack developer, legacy systems specialist, php developer, laravel developer, codeigniter, typescript engineer, javascript developer, nestjs, react, nextjs, vinext, cloudflare, aws lambda, serverless architecture, cloud computing, rest api, system migration, web development brazil, open to proposals
