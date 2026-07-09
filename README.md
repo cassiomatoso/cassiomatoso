@@ -3,6 +3,10 @@
 
   <h1>Full Stack Web Developer</h1>
 
+  <p>
+    <a href="https://cassiomatoso.tech"><img src="https://img.shields.io/badge/Site-cassiomatoso.tech-7F00FF?style=for-the-badge" alt="Site pessoal em cassiomatoso.tech" /></a>
+  </p>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&center=true&vCenter=true&width=980&lines=Legacy+Systems+Specialist+%28PHP+and+JavaScript%2FTypeScript%29;PHP+%7C+Laravel+%7C+CodeIgniter+%7C+Node.js+%7C+NestJS;React+%7C+Next.js+%7C+TypeScript+%7C+Cloud+%7C+Serverless;Building%2C+modernizing+and+scaling+web+platforms" alt="Resumo de especialidades de Cassio Matoso em sistemas legados, full stack, cloud e serverless" />
 
   <p>
