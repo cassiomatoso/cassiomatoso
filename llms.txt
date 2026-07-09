@@ -25,8 +25,11 @@ He is currently employed and open to evaluating new proposals aligned with full 
 - Current role: Full Stack Developer at Sistema Gerencial Txai | Grupo Txai
 - Availability: Currently employed, open to proposals
 - Region: Brazil
+
+## Profiles
 - LinkedIn: https://www.linkedin.com/in/cassio-matoso/
 - GitHub: https://github.com/cassiomatoso
+- GitLab: https://gitlab.com/cassio.matoso
 
 ## Certifications (Selected)
 - Harvard Computer Science Program in Brazil (Fundacao Estudar)

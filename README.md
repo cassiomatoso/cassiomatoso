@@ -13,6 +13,7 @@
     <a href="https://github.com/cassiomatoso"><img src="https://img.shields.io/badge/Currently%20Employed-Open%20to%20Proposals-00C853?style=for-the-badge" alt="Cassio Matoso atualmente empregado e aberto para avaliar propostas" /></a>
     <a href="mailto:cassiomatoso.contato@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato por email com Cassio Matoso" /></a>
     <a href="https://www.linkedin.com/in/cassio-matoso"><img src="https://img.shields.io/badge/LinkedIn-Cassio%20Matoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil LinkedIn de Cassio Matoso" /></a>
+    <a href="https://gitlab.com/cassio.matoso"><img src="https://img.shields.io/badge/GitLab-cassio.matoso-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Perfil GitLab de Cassio Matoso" /></a>
   </p>
 </div>
 
@@ -58,6 +59,20 @@ I am a **Full Stack Developer** based in Brazil with **8+ years of experience** 
 </p>
 
 
+## Contribuicoes (GitHub + GitLab)
+
+Calendario dos ultimos 365 dias, somando atividade publica do GitHub e do GitLab por dia.
+
+<p>
+  <a href="https://github.com/cassiomatoso">GitHub · cassiomatoso</a>
+  /
+  <a href="https://gitlab.com/cassio.matoso">GitLab · cassio.matoso</a>
+</p>
+
+<p>
+  <img src="https://contributions-status-server.vercel.app/api/contributions?github=cassiomatoso&gitlab=cassio.matoso&theme=gitlab" alt="Calendario unificado de contribuicoes GitHub e GitLab de Cassio Matoso" />
+</p>
+
 ## GitHub Estatisticas
 
 <p>
@@ -77,5 +92,8 @@ I am a **Full Stack Developer** based in Brazil with **8+ years of experience** 
   </a>
   <a href="mailto:cassiomatoso.contato@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-cassiomatoso.contato%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email para Cassio Matoso" />
+  </a>
+  <a href="https://gitlab.com/cassio.matoso">
+    <img src="https://img.shields.io/badge/GitLab-cassio.matoso-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Acessar perfil no GitLab" />
   </a>
 </p>
