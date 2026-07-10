@@ -2,7 +2,7 @@
 
 > Full Stack Web Developer specialized in legacy systems modernization, based in Santo Antônio das Missões, Rio Grande do Sul, Brazil.
 
-Cassio Matoso is a Full Stack Web Developer from Brazil with 8+ years of experience in web development, software maintenance, and architecture modernization. He specializes in PHP and JavaScript/TypeScript legacy systems, including critical bug fixing, performance optimization, and migration to modern architectures. Currently employed at Sistema Gerencial Txai | Grupo Txai and open to evaluating new proposals aligned with full stack, legacy modernization, and cloud/serverless challenges.
+Cassio Matoso is a Full Stack Web Developer from Brazil with 8+ years of experience in web development, software maintenance, and architecture modernization. He specializes in PHP and JavaScript/TypeScript legacy systems, including critical bug fixing, performance optimization, and migration to modern architectures. Currently employed at Sistema Gerencial Txai | Grupo Txai.
 
 Core expertise: PHP, Laravel, CodeIgniter, Node.js, NestJS, React, Next.js, ViNext (Cloudflare), TypeScript, AWS Lambda, Google Cloud Platform, Vercel, REST APIs, Git, GitLab.
 
@@ -24,4 +24,4 @@ Core expertise: PHP, Laravel, CodeIgniter, Node.js, NestJS, React, Next.js, ViNe
 ## Optional
 
 - Certifications: Harvard Computer Science Program in Brazil (Fundacao Estudar), Serverless, NestJS REST API with TypeScript, Laravel and TypeScript tracks
-- Keywords: senior full stack developer, legacy systems specialist, php developer, laravel developer, codeigniter, typescript engineer, javascript developer, nestjs, react, nextjs, vinext, cloudflare, aws lambda, serverless architecture, cloud computing, rest api, system migration, web development brazil, open to proposals
+- Keywords: senior full stack developer, legacy systems specialist, php developer, laravel developer, codeigniter, typescript engineer, javascript developer, nestjs, react, nextjs, vinext, cloudflare, aws lambda, serverless architecture, cloud computing, rest api, system migration, web development brazil

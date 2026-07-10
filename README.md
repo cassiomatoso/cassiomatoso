@@ -9,10 +9,10 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&center=true&vCenter=true&width=980&background=171B21&lines=Legacy+Systems+Specialist+%28PHP+and+JavaScript%2FTypeScript%29;PHP+%7C+Laravel+%7C+CodeIgniter+%7C+Node.js+%7C+NestJS;React+%7C+Next.js+%7C+TypeScript+%7C+Cloud+%7C+Serverless;Building%2C+modernizing+and+scaling+web+platforms" alt="Legacy Systems Specialist, PHP, Laravel, CodeIgniter, Node.js, NestJS, React, Next.js, TypeScript, Cloud, Serverless" />
 
-  <p>Santo Antônio das Missões, RS · Brasil · Aberto a propostas</p>
+  <p>Santo Antônio das Missões, RS · Brasil</p>
 
   <p>
-    <a href="mailto:cassiomatoso.contato@gmail.com"><img src="https://img.shields.io/badge/Aberto%20a%20Propostas-00C853?style=for-the-badge" alt="Aberto a propostas" /></a>
+    <a href="mailto:cassiomatoso.contato@gmail.com"><img src="https://img.shields.io/badge/Entre%20em%20Contato-00C853?style=for-the-badge" alt="Entre em contato" /></a>
     <a href="mailto:cassiomatoso.contato@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato por email" /></a>
     <a href="https://wa.me/55999159865?text=Ol%C3%A1%2C%20Cassio!%20Vi%20seu%20perfil%20em%20cassiomatoso.tech%20e%20gostaria%20de%20conversar."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cassio Matoso" /></a>
     <a href="https://www.linkedin.com/in/cassio-matoso"><img src="https://img.shields.io/badge/LinkedIn-Cassio%20Matoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Cassio Matoso" /></a>
