@@ -12,9 +12,9 @@
   <p>Santo Antônio das Missões, RS · Brasil</p>
 
   <p>
-    <a href="mailto:cassiomatoso.contato@gmail.com"><img src="https://img.shields.io/badge/Entre%20em%20Contato-00C853?style=for-the-badge" alt="Entre em contato" /></a>
-    <a href="mailto:cassiomatoso.contato@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato por email" /></a>
-    <a href="https://wa.me/55999159865?text=Ol%C3%A1%2C%20Cassio!%20Vi%20seu%20perfil%20em%20cassiomatoso.tech%20e%20gostaria%20de%20conversar."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cassio Matoso" /></a>
+    <a href="mailto:eu@cassiomatoso.tech"><img src="https://img.shields.io/badge/Entre%20em%20Contato-00C853?style=for-the-badge" alt="Entre em contato" /></a>
+    <a href="mailto:eu@cassiomatoso.tech"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato por email" /></a>
+    <a href="https://encurt.link/r/K7MoK5xW"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cassio Matoso" /></a>
     <a href="https://www.linkedin.com/in/cassio-matoso"><img src="https://img.shields.io/badge/LinkedIn-Cassio%20Matoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Cassio Matoso" /></a>
     <a href="https://gitlab.com/cassio.matoso"><img src="https://img.shields.io/badge/GitLab-cassio.matoso-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab cassio.matoso" /></a>
   </p>
@@ -92,11 +92,11 @@ Calendário dos últimos 365 dias, somando atividade pública do GitHub e do Git
   <a href="https://www.linkedin.com/in/cassio-matoso">
     <img src="https://img.shields.io/badge/LinkedIn-Cassio%20Matoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Cassio Matoso" />
   </a>
-  <a href="mailto:cassiomatoso.contato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cassiomatoso.contato%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email cassiomatoso.contato@gmail.com" />
+  <a href="mailto:eu@cassiomatoso.tech">
+    <img src="https://img.shields.io/badge/Email-eu%40cassiomatoso.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email eu@cassiomatoso.tech" />
   </a>
-  <a href="https://wa.me/55999159865?text=Ol%C3%A1%2C%20Cassio!%20Vi%20seu%20perfil%20em%20cassiomatoso.tech%20e%20gostaria%20de%20conversar.">
-    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +55 99 99159-8658" />
+  <a href="https://encurt.link/r/K7MoK5xW">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cassio Matoso" />
   </a>
   <a href="https://gitlab.com/cassio.matoso">
     <img src="https://img.shields.io/badge/GitLab-cassio.matoso-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab cassio.matoso" />
@@ -111,9 +111,9 @@ Calendário dos últimos 365 dias, somando atividade pública do GitHub e do Git
 </p>
 
 <p align="center">
-  <a href="mailto:cassiomatoso.contato@gmail.com"><strong>Vamos conversar →</strong></a>
+  <a href="mailto:eu@cassiomatoso.tech"><strong>Vamos conversar →</strong></a>
   ·
-  <a href="https://wa.me/55999159865?text=Ol%C3%A1%2C%20Cassio!%20Vi%20seu%20perfil%20em%20cassiomatoso.tech%20e%20gostaria%20de%20conversar."><strong>WhatsApp →</strong></a>
+  <a href="https://encurt.link/r/K7MoK5xW"><strong>WhatsApp →</strong></a>
 </p>
 
 <p align="center">
